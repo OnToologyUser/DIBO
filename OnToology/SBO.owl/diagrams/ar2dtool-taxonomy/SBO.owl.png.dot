@@ -1,0 +1,22 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "base:SBO_0000240" "base:SBO_0000251" "base:SBO_0000241" "base:SBO_0000252" "base:SBO_0000236" "base:SBO_0000250" "base:SBO_0000000" "base:SBO_0000246" "base:SBO_0000635" "base:SBO_0000545" "base:SBO_0000647" "base:SBO_0000002" "base:SBO_0000245" "base:SBO_0000634" "base:SBO_0000648" "base:SBO_0000354" "base:SBO_0000014" ; /*classes style*/
+	"base:SBO_0000634" -> "base:SBO_0000354" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000250" -> "base:SBO_0000246" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000648" -> "base:SBO_0000647" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000014" -> "base:SBO_0000241" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000354" -> "base:SBO_0000240" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000545" -> "base:SBO_0000000" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000635" -> "base:SBO_0000354" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000236" -> "base:SBO_0000000" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000251" -> "base:SBO_0000246" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000240" -> "base:SBO_0000236" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000245" -> "base:SBO_0000240" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000647" -> "base:SBO_0000002" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000241" -> "base:SBO_0000236" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000002" -> "base:SBO_0000545" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000252" -> "base:SBO_0000246" [ label = "rdfs:subClassOf" ];
+	"base:SBO_0000246" -> "base:SBO_0000245" [ label = "rdfs:subClassOf" ];
+
+}
