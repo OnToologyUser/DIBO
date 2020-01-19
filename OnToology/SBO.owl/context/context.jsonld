@@ -1,0 +1,68 @@
+{
+  "@context" : {
+    "SBO_0000240" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000240"
+    },
+    "versionInfo" : {
+      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
+    },
+    "part_of" : {
+      "@id" : "http://biomodels.net/SBO/part_of",
+      "@type" : "@id"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "SBO_0000648" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000648"
+    },
+    "SBO_0000245" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000245"
+    },
+    "SBO_0000647" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000647"
+    },
+    "SBO_0000634" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000634"
+    },
+    "SBO_0000014" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000014"
+    },
+    "SBO_0000002" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000002"
+    },
+    "SBO_0000251" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000251"
+    },
+    "SBO_0000246" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000246"
+    },
+    "SBO_0000236" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000236"
+    },
+    "SBO_0000545" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000545"
+    },
+    "SBO_0000000" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000000"
+    },
+    "SBO_0000635" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000635"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "SBO_0000250" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000250"
+    },
+    "SBO_0000241" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000241"
+    },
+    "SBO_0000252" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000252"
+    },
+    "SBO_0000354" : {
+      "@id" : "http://biomodels.net/SBO/SBO_0000354"
+    }
+  }
+}
